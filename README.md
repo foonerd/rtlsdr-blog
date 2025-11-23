@@ -1,11 +1,11 @@
-# rtlsdr-osmocom
+# rtlsdr-blog
 
-fooNerd custom build of RTL-SDR library and tools from osmocom/rtl-sdr.
+fooNerd custom build of RTL-SDR library and tools from rtlsdrblog/rtl-sdr-blog.
 
 ## Attribution
 
 - Author: fooNerd (Just a Nerd)
-- Source: https://github.com/osmocom/rtl-sdr
+- Source: https://github.com/rtlsdrblog/rtl-sdr-blog
 - Build system: Custom for Volumio integration
 - License: GPL-2.0 (upstream)
 
@@ -37,7 +37,7 @@ All tools use fn- prefix:
 ## Setup
 
 1. Clone repository
-2. Copy rtl-sdr-master.zip to package-sources/
+2. Copy rtl-sdr-blog-master.zip to package-sources/
 3. Make scripts executable:
 
 ```bash
